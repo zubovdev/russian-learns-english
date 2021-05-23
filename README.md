@@ -37,3 +37,4 @@ nod
 tidy
 ```
 
+See `words.txt` for full example.
